@@ -1,4 +1,4 @@
- [![Visits Badge](https://badges.pufler.dev/visits/SJTU-Quant/qlib)](https://badges.pufler.dev/visits/SJTU-Quant/qlib)
+ [![Visits Badge](https://badges.pufler.dev/visits/MogicianXD/GLaDOS_checkin_auto)](https://badges.pufler.dev/visits/MogicianXD/GLaDOS_checkin_auto)
 
 
 # GLaDOS 自动签到，实现无限白嫖
