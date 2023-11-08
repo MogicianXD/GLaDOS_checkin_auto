@@ -1,3 +1,7 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=SJTU-Quant/qlib)
+ [![Visits Badge](https://badges.pufler.dev/visits/SJTU-Quant/qlib)](https://badges.pufler.dev/visits/SJTU-Quant/qlib)
+
+
 # GLaDOS 自动签到，实现无限白嫖
 
 原仓库地址：https://github.com/lukesyy/glados_automation
