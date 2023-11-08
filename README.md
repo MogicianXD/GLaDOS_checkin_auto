@@ -1,4 +1,3 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=SJTU-Quant/qlib)
  [![Visits Badge](https://badges.pufler.dev/visits/SJTU-Quant/qlib)](https://badges.pufler.dev/visits/SJTU-Quant/qlib)
 
 
